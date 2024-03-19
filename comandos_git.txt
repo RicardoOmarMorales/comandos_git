@@ -7,3 +7,5 @@ git --version - para ver la versión instalada en la compu
 4. git commint -m
 5. git checkout -- . //regresa al paso anterior aunque borre el archivo
 6. git log //muestra los commit realizados
+7. git commint --amend //nos permite editar los commit
+8. git checkout -b rama-hereos
