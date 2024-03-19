@@ -1,7 +1,9 @@
 comandos git 
 git --version - para ver la versión instalada en la compu
 
-1. git init - para iniciar git
-2. git add .
-3. reset - revierte todo lo que hace el git add
+1. git init //para iniciar git
+2. git add . //toma una fotografía de los archivos modificados
+3. reset //revierte todo lo que hace el git add
 4. git commint -m
+5. git checkout -- . //regresa al paso anterior aunque borre el archivo
+6. git log //muestra los commit realizados
