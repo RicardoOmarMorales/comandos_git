@@ -1,0 +1,5 @@
+comandos git 
+git --version - para ver la versión instalada en la compu
+
+1. git init - para iniciar git
+2. 
