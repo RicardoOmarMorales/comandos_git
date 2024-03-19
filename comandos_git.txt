@@ -12,3 +12,4 @@ git --version - para ver la versión instalada en la compu
 9. git checkout master //me paso a la rama master
 10. git branch -d rama-hereos //elimina la rama hereos
 11. git push
+12. git commit -am //realiza el add . y el commit -m
